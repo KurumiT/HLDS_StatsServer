@@ -1,4 +1,4 @@
-# HLDS_StatsServer
+# HLDS Stats Server
 UDP server for listening and parsing HLDS logs, and generate server statistic
 
 ## Install
